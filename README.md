@@ -20,6 +20,9 @@ Checking log file
 As we can see , var=786 has been passed to module successfully.
 
 
+
+
+
 ## __Question 2b__ 
 ### (Printing name in log file)
 
