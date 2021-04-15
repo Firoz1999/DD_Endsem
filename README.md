@@ -14,3 +14,6 @@ Here , we have passed integer parameter var=786
 
 Checking log file 
 
+![Screenshot from 2021-04-15 13-14-37](https://user-images.githubusercontent.com/35663501/114832874-9dc97380-9dec-11eb-8486-4c0fcf32f583.png)
+
+As we can see , var=786 has been passed to module successfully.
