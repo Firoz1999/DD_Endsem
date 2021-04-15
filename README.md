@@ -1,6 +1,6 @@
 # DD_Endsem
 
-# __Question 2a__  (Passing integer parameter when module is loaded with "insmod" command)
+## __Question 2a__  (Passing integer parameter when module is loaded with "insmod" command)
 
 Modules can take command line arguments, but not with the argc/argv you might be used to.
 
