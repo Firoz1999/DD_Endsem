@@ -1,6 +1,6 @@
 # DD_Endsem
 
-# Question 2a  (Passing integer parameter when module is loaded with "insmod" command)
+# __Question 2a__  (Passing integer parameter when module is loaded with "insmod" command)
 
 Modules can take command line arguments, but not with the argc/argv you might be used to.
 
@@ -17,3 +17,8 @@ Checking log file
 ![Screenshot from 2021-04-15 13-14-37](https://user-images.githubusercontent.com/35663501/114832874-9dc97380-9dec-11eb-8486-4c0fcf32f583.png)
 
 As we can see , var=786 has been passed to module successfully.
+
+
+## __Question 2b__  (Printing name in log file)
+
+![Screenshot from 2021-04-15 13-20-57](https://user-images.githubusercontent.com/35663501/114833819-9b1b4e00-9ded-11eb-87f4-d34124e9ae97.png)
